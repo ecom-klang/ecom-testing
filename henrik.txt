@@ -3,4 +3,4 @@ Klangs test
 Henriks test
 Klangs test 2
 Whatever
-Ny rad
+Gammal rad
